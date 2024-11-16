@@ -27,7 +27,7 @@ Before you begin, ensure you have the following requirements:
 3. Create a new database in MySQL and name it school_management.
 4. Import the SQL file for the database (you can create it based on the structure mentioned).
 5. Modify the db/db_connection.php file to set up your database connection.
-6. Open your browser and go to http://localhost/school_management_system/index.php to start using the system.
+6. Open your browser and go to https://github.com/Abdulrhmanalatab/SchoolManagementSystem_/archive/refs/heads/school.zip to start using the system.
 
 
 ## Features
